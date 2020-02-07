@@ -1,6 +1,6 @@
 # Dataset-of-Ebay-for-used-cars
 Exploing dataset of used cars
-##Data fields:
+#Data fields:
 
 dateCrawled - When this ad was first crawled.
 name - Name of the car.
@@ -23,5 +23,5 @@ nrOfPictures - The number of pictures in the ad.
 postalCode - The postal code for the location of the vehicle.
 lastSeenOnline - When the crawler saw this ad last online.
 
-##Introduction
+#Introduction
 The purpose of this project is to clean the data and analyze used car listings for useful information for buyers and sellers
